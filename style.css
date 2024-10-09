@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 768px;
+}
+
+.text-center {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
